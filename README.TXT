@@ -20,3 +20,9 @@ ALERT
     IF NO:
       - ASK IF THIS IS A REAL EMERGENCY...
       - REMOVE THE SCENARIO VIDEO FROM THE DATASET AND RECUSIVLEY REMOVE IT FROM THE ALGORITHM
+
+
+
+GOOD RESOURCES:
+
+https://www.boschsecurity.com/xc/en/solutions/fire-alarm-systems/aviotec-fire-and-smoke-detection-camera/
